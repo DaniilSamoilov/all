@@ -1,0 +1,11 @@
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\C# projects\OOP\OOP_1\ПЗ2\Задание_2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

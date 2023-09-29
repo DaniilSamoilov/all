@@ -1,0 +1,16 @@
+E:\C# projects\Async\Async\bin\Debug\Async.exe.config
+E:\C# projects\Async\Async\bin\Debug\Async.exe
+E:\C# projects\Async\Async\bin\Debug\Async.pdb
+E:\C# projects\Async\Async\obj\Debug\Async.csproj.AssemblyReference.cache
+E:\C# projects\Async\Async\obj\Debug\Async.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\Async\Async\obj\Debug\MainWindow.g.cs
+E:\C# projects\Async\Async\obj\Debug\App.g.cs
+E:\C# projects\Async\Async\obj\Debug\Async_MarkupCompile.cache
+E:\C# projects\Async\Async\obj\Debug\Async_MarkupCompile.lref
+E:\C# projects\Async\Async\obj\Debug\MainWindow.baml
+E:\C# projects\Async\Async\obj\Debug\Async.g.resources
+E:\C# projects\Async\Async\obj\Debug\Async.Properties.Resources.resources
+E:\C# projects\Async\Async\obj\Debug\Async.csproj.GenerateResource.cache
+E:\C# projects\Async\Async\obj\Debug\Async.csproj.CoreCompileInputs.cache
+E:\C# projects\Async\Async\obj\Debug\Async.exe
+E:\C# projects\Async\Async\obj\Debug\Async.pdb

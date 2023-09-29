@@ -1,0 +1,15 @@
+E:\C# projects\Experiment 1\Donut\Donut\bin\Debug\net6.0\Donut.exe
+E:\C# projects\Experiment 1\Donut\Donut\bin\Debug\net6.0\Donut.deps.json
+E:\C# projects\Experiment 1\Donut\Donut\bin\Debug\net6.0\Donut.runtimeconfig.json
+E:\C# projects\Experiment 1\Donut\Donut\bin\Debug\net6.0\Donut.dll
+E:\C# projects\Experiment 1\Donut\Donut\bin\Debug\net6.0\Donut.pdb
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.csproj.AssemblyReference.cache
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.AssemblyInfoInputs.cache
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.AssemblyInfo.cs
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.csproj.CoreCompileInputs.cache
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.dll
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\refint\Donut.dll
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.pdb
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\Donut.genruntimeconfig.cache
+E:\C# projects\Experiment 1\Donut\Donut\obj\Debug\net6.0\ref\Donut.dll

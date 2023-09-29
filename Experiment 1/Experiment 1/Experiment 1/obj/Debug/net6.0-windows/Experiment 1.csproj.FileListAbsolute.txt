@@ -1,0 +1,22 @@
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\Experiment 1.exe
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\Experiment 1.deps.json
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\Experiment 1.runtimeconfig.json
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\Experiment 1.dll
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\Experiment 1.pdb
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.csproj.AssemblyReference.cache
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.csproj.GenerateResource.cache
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.AssemblyInfoInputs.cache
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.AssemblyInfo.cs
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.csproj.CoreCompileInputs.cache
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.dll
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\refint\Experiment 1.dll
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.pdb
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment 1.genruntimeconfig.cache
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\ref\Experiment 1.dll
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment_1.Main_Form.resources
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment_1.Properties.Resources.resources
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\bin\Debug\net6.0-windows\ru\Experiment 1.resources.dll
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment_1.Second_panel.resources
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\Experiment_1.Main_Form.ru.resources
+E:\C# projects\Experiment 1\Experiment 1\Experiment 1\obj\Debug\net6.0-windows\ru\Experiment 1.resources.dll

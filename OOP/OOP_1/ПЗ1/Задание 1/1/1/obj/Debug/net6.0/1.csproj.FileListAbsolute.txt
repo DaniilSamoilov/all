@@ -1,0 +1,15 @@
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\bin\Debug\net6.0\1.exe
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\bin\Debug\net6.0\1.deps.json
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\bin\Debug\net6.0\1.runtimeconfig.json
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\bin\Debug\net6.0\1.dll
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\bin\Debug\net6.0\1.pdb
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.csproj.AssemblyReference.cache
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.AssemblyInfoInputs.cache
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.AssemblyInfo.cs
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.csproj.CoreCompileInputs.cache
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.dll
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\refint\1.dll
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.pdb
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\1.genruntimeconfig.cache
+E:\C# projects\OOP\OOP_1\ПЗ1\Задание 1\1\1\obj\Debug\net6.0\ref\1.dll

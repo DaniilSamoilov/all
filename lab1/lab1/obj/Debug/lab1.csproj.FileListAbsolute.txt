@@ -1,0 +1,16 @@
+E:\C# projects\lab1\lab1\bin\Debug\lab1.exe.config
+E:\C# projects\lab1\lab1\bin\Debug\lab1.exe
+E:\C# projects\lab1\lab1\bin\Debug\lab1.pdb
+E:\C# projects\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+E:\C# projects\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+E:\C# projects\lab1\lab1\obj\Debug\MainWindow.g.cs
+E:\C# projects\lab1\lab1\obj\Debug\App.g.cs
+E:\C# projects\lab1\lab1\obj\Debug\lab1_MarkupCompile.cache
+E:\C# projects\lab1\lab1\obj\Debug\lab1_MarkupCompile.lref
+E:\C# projects\lab1\lab1\obj\Debug\MainWindow.baml
+E:\C# projects\lab1\lab1\obj\Debug\lab1.g.resources
+E:\C# projects\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+E:\C# projects\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+E:\C# projects\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\C# projects\lab1\lab1\obj\Debug\lab1.exe
+E:\C# projects\lab1\lab1\obj\Debug\lab1.pdb

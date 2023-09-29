@@ -1,0 +1,20 @@
+﻿<Window x:Class="Async.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Async"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="startTread1" Content="Начать поток 1" HorizontalAlignment="Left" Margin="10,121,0,0" VerticalAlignment="Top" Click="startTread1_Click"/>
+        <Button x:Name="startBothThreads" Content="Запустить оба потока" HorizontalAlignment="Left" Margin="10,172,0,0" VerticalAlignment="Top" Click="startBothThreads_Click"/>
+        <Button x:Name="startTread2" Content="Начать поток 2" HorizontalAlignment="Left" Margin="10,225,0,0" VerticalAlignment="Top" Click="startTread2_Click"/>
+        <Button x:Name="stopTread2" Content="Остановить поток 2" HorizontalAlignment="Left" Margin="146,225,0,0" VerticalAlignment="Top" Click="stopTread2_Click"/>
+        <Button x:Name="stopTread1" Content="Остановить поток 1" HorizontalAlignment="Left" Margin="146,121,0,0" VerticalAlignment="Top" Click="stopTread1_Click"/>
+        <Button x:Name="stopBothTreads" Content="Остановить оба потока" HorizontalAlignment="Left" Margin="146,172,0,0" VerticalAlignment="Top" Click="stopBothTreads_Click"/>
+        <Ellipse x:Name="ball1" HorizontalAlignment="Left" Height="20" Margin="487,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+        <Ellipse x:Name="ball2" HorizontalAlignment="Left" Height="20" Margin="570,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="20"/>
+
+    </Grid>
+</Window>
